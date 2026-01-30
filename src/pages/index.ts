@@ -1,0 +1,1 @@
+export { PointsAndBadges } from './PointsAndBadges'
